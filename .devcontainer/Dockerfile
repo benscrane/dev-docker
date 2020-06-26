@@ -1,4 +1,4 @@
-FROM alpine:3.12.0
+FROM benscrane/dev
 
 ARG USERNAME=vscode
 ARG USER_UID=1000
