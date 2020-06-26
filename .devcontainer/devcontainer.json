@@ -1,0 +1,8 @@
+{
+    "name": "DockerDev",
+    "dockerFile": "Dockerfile",
+    "Settings": {
+        "terminal.integrated.shell.linux": "/bin/ash"
+    },
+    "extensions": []
+}
